@@ -1,1 +1,1 @@
-# Basic python projects (Beginner)
+# Mini python projects (Beginner)
